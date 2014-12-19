@@ -1,1 +1,2 @@
-hi
+if true:
+	print 'hi'
